@@ -34,4 +34,6 @@ List<chatsModel> chatsData = [
       'https://randomuser.me/api/portraits/men/8.jpg', 'Yesterday'),
   chatsModel('Santhosh', 'building the widget in response to new states',
       'https://randomuser.me/api/portraits/men/9.jpg', 'Yesterday'),
+  chatsModel('Priya', 'Running "flutter pub get" in whatsapp_ui_design',
+      'https://randomuser.me/api/portraits/women/8.jpg', 'Yesterday'),
 ];
